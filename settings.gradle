@@ -1,2 +1,3 @@
+include ':compile'
 include ':app'
 rootProject.name = "Study"
